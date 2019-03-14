@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BB08F9FA-DE54-4121-8F9A-B9BAB7D54F26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImgApp/FinalPage.xaml">
+    <Files>
+      <File FileName="ImgApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ImgApp/MainPage.xaml" Line="6" Column="5" />
+      <File FileName="ImgApp/PageTwo.xaml" Line="14" Column="15" />
+      <File FileName="ImgApp/FinalPage.xaml" Line="3" Column="14" />
+      <File FileName="ImgApp/FinalPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImgApp" expanded="True">
+            <Node name="ImgApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="FinalPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PageTwo.xaml" expanded="True" />
+            </Node>
+            <Node name="ImgApp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImgApp.Android FirstBuild="True" PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ImgApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ImgApp.iOS FirstBuild="True" />
+</Properties>

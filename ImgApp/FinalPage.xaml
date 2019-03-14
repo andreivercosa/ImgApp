@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ImgApp.FinalPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Frenc Fries"
+               FontSize="45"
+               FontFamily="Tangerine-Bold.ttf#Tangerine-Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        
+        <Image Source="frenchFriesMc.png"/>
+    </StackLayout>
+</ContentPage>
